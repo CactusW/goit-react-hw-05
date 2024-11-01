@@ -1,0 +1,24 @@
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    font-weight: 700;
+    background-color: lavender;
+    min-width: 1158px;
+   margin: 0 auto;
+   border-bottom: 1px solid gray;
+}
+
+.link {
+    color: #747bff;
+    font-weight: bold;
+}
+
+.activeLink {
+    color:black;
+}
+
+.wrapperLinks{
+    display: flex;
+    gap: 20px;
+}
